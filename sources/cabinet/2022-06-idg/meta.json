@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+        "name": "Palau",
+        "id": "Q695"
+    },
+    "cabinet": {
+      "id":     "Q114457526",
+      "start":  "2022-06-21",
+      "end":    "2022-06-30",
+      "parent": "Q52898982"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "493"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Palau"
+    }
+}
