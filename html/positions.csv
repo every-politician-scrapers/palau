@@ -1,10 +1,14 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q86662698,Governor of Koror,,Q189426,,,,,,,Governor of Koror
+Q114457459,Governor of Peleliu,,Q497981,,,,,,,
 Q21328610,Member of the House of Delegates of Palau,Q695,Q695,,,,,,,
 Q21295147,Member of the Senate of Palau,,Q695,,,,,,,
 Q113581812,Minister of Foreign Affairs of Palau,Q695,Q695,,,,,,,
 Q108872462,Minister of Justice of Palau,,Q695,,,,,,,
 Q30593537,Palauan Ambassador to the United States,Q695,,,,,,,,List of ambassadors of Palau to the United States
 Q878329,President of Palau,Q695,Q695,Q2393616,,1981-03-02,,,,President of Palau
+Q114457480,President of the Senate of Palau,,,,,,,,,
+Q114457505,Speaker of the House of Delegates of Palau,,,,,,,,,
 Q2393616,Vice President of Palau,Q695,Q695,,,1981-03-02,,,,Vice President of Palau
 Q109741104,ambassador of Palau to Japan,Q695,,,,,,,,
 Q106091165,ambassador of Palau to Taiwan,Q695,,,Q30622170,,,,,
