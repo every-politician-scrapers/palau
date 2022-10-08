@@ -1,0 +1,161 @@
+{
+  "title": "Temmy Shmull",
+  "pageID": 68229027,
+  "categories": [
+    "Living people",
+    "Governors of Peleliu",
+    "People from Peleliu",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Temmy Shmull is a Palauan politician.",
+              "links": [
+                {
+                  "text": "Palauan",
+                  "type": "internal",
+                  "page": "Palau"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Temmy Shmull"
+                ]
+              }
+            },
+            {
+              "text": "He worked in the government as a foreign service officer and later became an advisor to Thomas Remengesau Sr. in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Thomas Remengesau Sr."
+                }
+              ]
+            },
+            {
+              "text": "He then became the Chief of Staff of President Kuniwo Nakamura before becoming Minister of State of Palau from 2001-2009 under Thomas Remengesau Jr.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuniwo Nakamura"
+                },
+                {
+                  "text": "Minister of State",
+                  "type": "internal",
+                  "page": "Minister of State (Palau)"
+                },
+                {
+                  "text": "Thomas Remengesau Jr",
+                  "type": "internal",
+                  "page": "Thomas Remengesau Jr."
+                }
+              ]
+            },
+            {
+              "text": "He has been the Governor of Peleliu since January 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Peleliu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:75th_Commemoration_of_the_Battle_of_Peleliu_(cropped)_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/75th_Commemoration_of_the_Battle_of_Peleliu_(cropped)_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/75th_Commemoration_of_the_Battle_of_Peleliu_(cropped)_(cropped).jpg",
+          "caption": "Temmy Shmull",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Palauan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "25 September 2018",
+          "title": "Shmull re-enters Peleliu gubernatorial race",
+          "url": "https://islandtimes.org/shmull-re-enters-peleliu-gubernatorial-race/",
+          "website": "Island Times",
+          "access-date": "13 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "14 December 2018",
+          "title": "Shmull secures Peleliu gubernatorial seat for third time",
+          "url": "https://islandtimes.org/shmull-secures-peleliu-gubernatorial-seat-for-third-time/",
+          "website": "Island Times",
+          "access-date": "13 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "7 December 2018",
+          "title": "Shmull leads Peleliu gubernatorial race by slim margin",
+          "url": "https://islandtimes.org/shmull-leads-peleliu-gubernatorial-race-by-slim-margin/",
+          "website": "Island Times",
+          "access-date": "13 July 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Sabino Anastacio",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State of Palau",
+          "years": "2001-2009",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Sandra Pierantozzi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Kangichi Uchau",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Peleliu",
+          "years": "2013-present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "palau-politician-stub"
+        }
+      ]
+    }
+  ]
+}

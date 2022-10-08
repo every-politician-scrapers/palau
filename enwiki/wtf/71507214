@@ -1,0 +1,99 @@
+{
+  "title": "Sabino Anastacio",
+  "pageID": 71507214,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Speakers of the House of Delegates of Palau",
+    "21st-century Palauan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sabino Anastacio is a Palauan politician who has been speaker of the House of Delegates of Palau since January 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Delegates of Palau"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sabino Anastacio"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Palauan politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Reklai",
+          "first": "Leilani",
+          "date": "2019-11-15",
+          "title": "House Speaker Anastacio not seen for months",
+          "url": "http://islandtimes.org/house-speaker-anastacio-not-seen-for-months/",
+          "access-date": "2022-08-12",
+          "website": "Island Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was part of a delegation to Taiwan in 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "President Tsai meets delegation led by Palau House of Delegates Speaker Sabino Anastacio",
+          "url": "https://english.president.gov.tw/NEWS/5301",
+          "access-date": "2022-08-12",
+          "website": "english.president.gov.tw",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "palau-bio-stub"
+        }
+      ]
+    }
+  ]
+}
