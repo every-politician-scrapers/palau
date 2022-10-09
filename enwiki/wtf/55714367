@@ -211,6 +211,10 @@
         {
           "date": "March 2022",
           "template": "fact"
+        },
+        {
+          "date": "October 2022",
+          "template": "fact"
         }
       ],
       "infoboxes": [
@@ -219,10 +223,10 @@
             "text": "J. Uduch Sengebau Senior"
           },
           "image": {
-            "text": "Uduch Sengebau Senior, 2021.jpg"
+            "text": "Uduch Sengebau Senior official portrait in 2021.jpg"
           },
           "caption": {
-            "text": "Senior in 2021 during a visit to Taiwan"
+            "text": "Senior official portrait"
           },
           "order": {
             "text": "10th"
