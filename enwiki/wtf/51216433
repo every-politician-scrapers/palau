@@ -485,6 +485,24 @@
                   "page": "Scotland"
                 }
               ]
+            },
+            {
+              "text": "On 28 September 2022, on the occasion of the state funeral for Shinzo Abe, Japan's former prime minister, in Tokyo, Whipps was one of only seven heads of state which met with Japanese Emperor Naruhito.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shinzo Abe"
+                },
+                {
+                  "text": "Japanese Emperor",
+                  "type": "internal",
+                  "page": "Emperor of Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Naruhito"
+                }
+              ]
             }
           ]
         },
@@ -556,6 +574,15 @@
           "date": "3 November 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Emperor Naruhito, in a rare move, meets with 7 heads of state in one day",
+          "url": "https://www.arabnews.jp/en/japan/article_81309/",
+          "access-date": "2022-10-13",
+          "website": "Arab News Japan",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
