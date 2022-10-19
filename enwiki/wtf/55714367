@@ -2,18 +2,18 @@
   "title": "Uduch Sengebau Senior",
   "pageID": 55714367,
   "categories": [
+    "1965 births",
     "Living people",
-    "Palauan lawyers",
-    "Members of the Senate of Palau",
-    "21st-century Palauan women politicians",
-    "University of Hawaiʻi alumni",
-    "Women judges",
-    "Vice presidents of Palau",
-    "Women vice presidents",
-    "Female foreign ministers",
-    "1960s births",
     "21st-century Palauan politicians",
-    "People from Koror"
+    "21st-century Palauan women politicians",
+    "Female foreign ministers",
+    "Members of the Senate of Palau",
+    "Palauan lawyers",
+    "People from Koror",
+    "University of Hawaiʻi alumni",
+    "Vice presidents of Palau",
+    "Women judges",
+    "Women vice presidents"
   ],
   "sections": [
     {
@@ -201,7 +201,7 @@
           "template": "short description"
         },
         {
-          "birth_year": "1960",
+          "birth_year": "1965",
           "template": "birth year and age"
         },
         {
@@ -255,8 +255,34 @@
               }
             ]
           },
+          "office1": {
+            "text": "Senator 9th and 10th OEK Senate of Palau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Senate of Palau"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "January 2013"
+          },
+          "termend1": {
+            "text": "21 January 2021"
+          },
+          "office2": {
+            "text": "Senior Judge Palau Land Court"
+          },
+          "termstart2": {
+            "text": "2003",
+            "number": 2003
+          },
+          "termend2": {
+            "text": "2007",
+            "number": 2007
+          },
           "birth_date": {
-            "text": "1960 (age 62)"
+            "text": "1965 (age 57)"
           },
           "birth_place": {
             "text": "Ngerbeched, Koror, Palau",
@@ -300,32 +326,6 @@
                 "page": "University of Hawaii"
               }
             ]
-          },
-          "office2": {
-            "text": "Senior Judge Palau Land Court"
-          },
-          "termstart2": {
-            "text": "2003",
-            "number": 2003
-          },
-          "termend1": {
-            "text": "21 January 2021"
-          },
-          "termend2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office1": {
-            "text": "Senator 9th and 10th OEK Senate of Palau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Senate of Palau"
-              }
-            ]
-          },
-          "termstart1": {
-            "text": "January 2013"
           }
         }
       ],
