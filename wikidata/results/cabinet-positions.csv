@@ -1,13 +1,13 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114457560,"Minister of Agriculture, Fisheries, and the Environment of Palau",,,Q695,Q695,,
-Q114457638,Minister of Community and Cultural Affairs,,,Q695,Q695,,2021
-Q114457557,Minister of Education of Palau,,,Q695,Q695,,
-Q114457553,Minister of Finance of Palau,,,Q695,Q695,,
-Q114457555,Minister of Health of Palau,,,Q695,Q695,,
-Q114457558,"Minister of Human Resources, Culture, Tourism and Development of Palau",,,Q695,Q695,,
-Q108872462,Minister of Justice of Palau,Q55648368,Ministry of Justice of Palau,,Q695,,
-Q114457552,Minister of Public Infrastructure and Industries,,,Q695,Q695,,
-Q113581812,Minister of State of Palau,,,Q695,Q695,,
-Q107351779,Palau Language Commission,,,Q695,,2009,
-Q878329,President of Palau,,,Q695,Q695,1981,
-Q2393616,Vice President of Palau,,,Q695,Q695,1981,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114457560,"Minister of Agriculture, Fisheries, and the Environment of Palau",,,Q695,Q695,,,1
+Q114457638,Minister of Community and Cultural Affairs,,,Q695,Q695,,2021,1
+Q114457557,Minister of Education of Palau,,,Q695,Q695,,,1
+Q114457553,Minister of Finance of Palau,,,Q695,Q695,,,1
+Q114457555,Minister of Health of Palau,,,Q695,Q695,,,1
+Q114457558,"Minister of Human Resources, Culture, Tourism and Development of Palau",,,Q695,Q695,,,1
+Q108872462,Minister of Justice of Palau,Q55648368,Ministry of Justice of Palau,,Q695,,,4
+Q114457552,Minister of Public Infrastructure and Industries,,,Q695,Q695,,,1
+Q113581812,Minister of State of Palau,,,Q695,Q695,,,4
+Q107351779,Palau Language Commission,,,Q695,,2009,,0
+Q878329,President of Palau,,,Q695,Q695,1981,,9
+Q2393616,Vice President of Palau,,,Q695,Q695,1981,,10
